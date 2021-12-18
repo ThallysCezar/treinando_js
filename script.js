@@ -15,4 +15,4 @@
 
         var idade = prompt('Digite sua idade:')
 
-        document.write('Digite sua idade? 'Sua idade é:' + idade)
+        document.write('<h1>Seu nome é' + nome + '<br>Sua idade é:' + idade + '</h1>')
