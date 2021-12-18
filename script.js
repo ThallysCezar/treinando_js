@@ -5,9 +5,6 @@
         // tipo boolean
         var booleano = true
 
-        alert(numeroInteiro)
-
-        document.write(texto)
 
         console.log()
         
@@ -15,4 +12,4 @@
 
         var idade = prompt('Digite sua idade:')
 
-        document.write('<h1>Seu nome é' + nome + '<br>Sua idade é:' + idade + '</h1>')
+        document.write('Seu nome é: ' + nome + '</br>Sua idade é: ' + idade)
