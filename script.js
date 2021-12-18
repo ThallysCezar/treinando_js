@@ -10,3 +10,9 @@
         document.write(texto)
 
         console.log()
+        
+        var nome = prompt('Digite seu nome:')
+
+        var idade = prompt('Digite sua idade:')
+
+        document.write('Digite sua idade? 'Sua idade é:' + idade)
